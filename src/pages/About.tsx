@@ -46,17 +46,13 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id eros
-            non nisi vulputate eleifend. Vestibulum erat ipsum, lacinia ut nibh
-            ut, pulvinar interdum lorem. Aliquam et nisi eu risus ultrices
-            suscipit nec nec quam. Suspendisse pretium fermentum luctus.
-            Maecenas vitae vestibulum ipsum, ut varius diam. Phasellus mattis
-            nunc vel purus maximus, sit amet congue ligula tincidunt. Nulla
-            tristique luctus lacinia. Nullam ut tortor arcu.
+            I'm currently a 3rd year Computer Engineering student at UC Santa Barbara. The field of CS is my focus, and I'm
+            proficient in full-stack development and AI tools. I excel in problem-solving, with a range of engineering skills.
+            In my free time, I love watching history documentaries and playing the piano.
           </code>
           <br />
           <br />
-          <code>Aenean in mi non leo placerat suscipit a eget odio:</code>
+          <code>Skills:</code>
           <List list={skills} />
         </div>
       </div>
