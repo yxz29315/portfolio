@@ -9,32 +9,26 @@ const JsLogo = require("../assets/logos/JsLogo.png");
 const NextLogo = require("../assets/logos/NextLogo.png");
 const TailwindLogo = require("../assets/logos/TailwindLogo.png");
 const SqlLogo = require("../assets/logos/SqlLogo.png");
-const ReduxLogo = require("../assets/logos/ReduxLogo.png");
-const FirebaseLogo = require("../assets/logos/FirebaseLogo.png");
-const MongoDBLogo = require("../assets/logos/MongoDBLogo.png");
 const NodeJSLogo = require("../assets/logos/NodeJSLogo.png");
-const DockerLogo = require("../assets/logos/DockerLogo.png");
+const JavaLogo = require("../assets/logos/JavaLogo.png");
 
 const skills = [
-  { name: "JavaScript (ES6+)", logo: JsLogo },
-  { name: "Next.js", logo: NextLogo },
+  { name: "JavaScript", logo: JsLogo },
+  { name: "Java", logo: JavaLogo },
+  { name: "Python", logo: PythonLogo },
   { name: "React", logo: ReactLogo },
+  { name: "Next.js", logo: NextLogo },
   { name: "TypeScript", logo: TypescriptLogo },
   { name: "Tailwind CSS", logo: TailwindLogo },
-  { name: "Redux", logo: ReduxLogo },
-  { name: "Python", logo: PythonLogo },
-  { name: "Firebase", logo: FirebaseLogo },
-  { name: "Nodejs", logo: NodeJSLogo },
+  { name: "Node.js", logo: NodeJSLogo },
   { name: "SQL", logo: SqlLogo },
-  { name: "MongoDB", logo: MongoDBLogo },
-  { name: "Docker", logo: DockerLogo },
 ];
 
 const About = () => {
   return (
     <div
       id="About"
-      className="flex mx-12 mt-60 lg:mx-60 items-center justify-center lg:w-1/2 text-justify"
+      className="flex mx-12 mt-40 lg:mx-60 items-center justify-center lg:w-1/2 text-justify"
     >
       <div>
         <div className="table">
