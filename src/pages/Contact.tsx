@@ -15,11 +15,10 @@ const Contact = () => {
         <code>
           Currently looking for a new opportunity, you can contact me by
           clicking on the button below. <br />
-          Whether you have a question or just want to say hi, feel free to
-          contact me and I’ll try my best to get back to you!
+          Whether you have a question or just want to say hi, feel free to contact me!
         </code>
         <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
-          <a href="mailto:youssefkizou@gmail.com">
+          <a href="mailto:yuxiangyxz@gmail.com">
             <code>Contact</code>
           </a>
         </button>
