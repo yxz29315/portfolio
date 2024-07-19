@@ -31,6 +31,11 @@ const Resume = () => {
             <code className="text-xs text-brown_vs">
               • Sept 2022 - June 2026
             </code>
+            <br />
+            <code className="text-sm">
+              <br />Coursework:
+              <br />• Lin Alg, Diff Equations, Vector Calculus, Problem Solving with Computers I-II, Object Oriented Design, Discrete Math, Physics 1-4, Analog and Digital Circuits and Systems A-B-C, Digital Design Principles
+            </code>
           </div>
         </div>
         <div className="flex flex-row pt-10">
@@ -47,7 +52,7 @@ const Resume = () => {
             <code className="text-xs text-brown_vs">• Sept 2022 - Present</code>
             <br />
             <code className="text-sm">
-              <br />• Curated comprehensive computer science curriculum
+              <br />• Curated comprehensive computer science curriculum for 50+ high school students
               <br />• Advised students in strategies for the AP exam and personalized Java lessons on Object Oriented Programming
             </code>
           </div>
@@ -66,7 +71,7 @@ const Resume = () => {
             <code className="text-xs text-brown_vs">• Sept 2022 - Present</code>
             <br />
             <code className="text-sm">
-              <br />• Mentored and recruited 50+ members for FRC team 1160
+              <br />• Mentored and recruited 40+ members for FRC team 1160
               <br />• Spearheaded design and manufacturing of the competition robot
               <br />• Piloted development of Java control systems, autonomous and teleoperated PID control loops, and target detection
               <br />• Achieved Rockwell Automation’s Creativity Award and finished 8th out of 43 teams in Offensive Power Rating at 2022 FIRST Sacramento Regional, team’s best performance in nearly 20 seasons
