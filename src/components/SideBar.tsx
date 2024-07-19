@@ -8,6 +8,7 @@ const MailLogo = require("../assets/logos/MailLogo.png");
 
 const JSIcon = require("../assets/icons/JSIcon.png");
 const TSIcon = require("../assets/icons/TSIcon.png");
+const GitIcon = require("../assets/icons/GitIcon.png");
 
 const SideBar = ({
   setWidth,
@@ -120,44 +121,54 @@ export default SideBar;
 
 const WebList = () => (
   <div className="flex flex-col">
-    <a href="/">
+    <a href="https://github.com/yxz29315/lstm_stock_price_prediction" target={"_blank"}>
       <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a]">
         <img
-          src={JSIcon}
-          alt="JS Icon"
+          src={GitIcon}
+          alt="Git Icon"
           className="w-7 mr-1  ml-5 text-yellow_vs"
         />
-        <p>First Project</p>
+        <p className="text-sm">lstm_stock_prediction</p>
       </div>
     </a>
-    <a href="/">
+    <a href="https://github.com/yxz29315/covid" target={"_blank"}>
       <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a]">
         <img
-          src={TSIcon}
-          alt="TS Icon"
+          src={GitIcon}
+          alt="Git Icon"
           className="w-7 mr-1  ml-5 text-yellow_vs"
         />
-        <p>Second Project</p>
+        <p className="text-sm">covid_19_visualizer</p>
       </div>
     </a>
-    <a href="/">
+    <a href="https://github.com/yxz29315/RubiksCubeSolverA" target={"_blank"}>
       <div className="flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] focus:bg-slate-300 ml-12">
         <img
-          src={JSIcon}
-          alt="JS Icon"
+          src={GitIcon}
+          alt="Git Icon"
           className="w-7 mr-1  ml-5 text-yellow_vs"
         />
-        <p>Third Project</p>
+        <p className="text-sm">RubiksCubeSolverA</p>
       </div>
     </a>
-    <a href="/">
+    <a href="https://github.com/kevinjl321/frc-scouting" target={"_blank"}>
       <div className="flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] ml-12">
         <img
-          src={JSIcon}
-          alt="JS Icon"
+          src={GitIcon}
+          alt="Git Icon"
           className="w-7 mr-1  ml-5 text-yellow_vs"
         />
-        <p>Fourth Project</p>
+        <p className="text-sm">frc-scouting</p>
+      </div>
+    </a>
+    <a href="https://github.com/FRC-Team-1160/Shooter-v3" target={"_blank"}>
+      <div className="flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] ml-12">
+        <img
+          src={GitIcon}
+          alt="Git Icon"
+          className="w-7 mr-1  ml-5 text-yellow_vs"
+        />
+        <p className="text-sm">Shooter-v3</p>
       </div>
     </a>
   </div>
