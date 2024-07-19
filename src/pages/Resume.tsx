@@ -34,7 +34,7 @@ const Resume = () => {
             <br />
             <code className="text-sm">
               <br />Coursework:
-              <br />• Lin Alg, Diff Equations, Vector Calculus, Problem Solving with Computers I-II, Object Oriented Design, Discrete Math, Physics 1-4, Analog and Digital Circuits and Systems A-B-C, Digital Design Principles
+              <br />• Lin Alg, Diff Equations, Vector Calculus, Data Structures & Algorithms, Object Oriented Design, Discrete Math, Physics 1-4, Analog and Digital Circuits and Systems A-B-C, Digital Design Principles
             </code>
           </div>
         </div>
@@ -109,7 +109,7 @@ const Resume = () => {
               <br />• Predicting stock market trends using long short-term memory (LSTM) neural networks
               <br />• Real-time data is sourced from yfinance library.
               <br />• Proven to be effective, with R-Squared coefficient of 0.89
-              <br />• Utilized: tensorflow, pandas, numpy
+              <br />• Utilized: Python, tensorflow, pandas, numpy
             </code>
           </div>
         </div>
