@@ -6,8 +6,6 @@ const LinkedinLogo = require("../assets/logos/LinkedinLogo.png");
 const KaggleLogo = require("../assets/logos/KaggleLogo.png");
 const MailLogo = require("../assets/logos/MailLogo.png");
 
-const JSIcon = require("../assets/icons/JSIcon.png");
-const TSIcon = require("../assets/icons/TSIcon.png");
 const GitIcon = require("../assets/icons/GitIcon.png");
 
 const SideBar = ({
