@@ -123,7 +123,7 @@ const Resume = () => {
             <code className="text-sm">
               <br />• COVID-19 tracker app showing map with number of cases in proportional circles, recovered cases, deaths, active cases.
               <br />• Data is sourced from the disease.sh API.
-              <br />• Utilized: React, Material-UI, Charts.js, Firebase.
+              <br />• HTML, CSS, Javascript, React.js, Charts.js, Material UI, Firebase
             </code>
           </div>
           <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
