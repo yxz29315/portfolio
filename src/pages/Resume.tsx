@@ -108,6 +108,25 @@ const Resume = () => {
             </code>
           </div>
         </div>
+        <div className="flex flex-row pt-10 flex-wrap">
+          <div className="w-1/4">
+            <code className="text-yellow_vs"></code>
+          </div>
+          <div className="w-3/4">
+            <code className="text-blue_vs">COVID-19 Visualizer</code>
+            <br />
+            <code className="text-sm">
+              <br />• COVID-19 tracker app showing map with number of cases in proportional circles, recovered cases, deaths, active cases.
+              <br />• Data is sourced from the disease.sh API.
+              <br />• Utilized: React, Material-UI, Charts.js, Firebase.
+            </code>
+          </div>
+        </div>
+        <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
+          <a href="https://github.com/yxz29315">
+            <code>Link to Github</code>
+          </a>
+        </button>
       </div>
     </div>
   );
