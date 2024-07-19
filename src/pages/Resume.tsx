@@ -122,7 +122,7 @@ const Resume = () => {
             </code>
           </div>
           <button className=" border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2">
-          <a href="https://github.com/yxz29315" target={"_blank"}>
+          <a href="https://github.com/yxz29315" target="_blank" rel="noopener noreferrer">
             <code>Link to Github</code>
           </a>
           </button>

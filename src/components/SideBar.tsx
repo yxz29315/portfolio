@@ -121,7 +121,7 @@ export default SideBar;
 
 const WebList = () => (
   <div className="flex flex-col">
-    <a href="https://github.com/yxz29315/lstm_stock_price_prediction" target={"_blank"}>
+    <a href="https://github.com/yxz29315/lstm_stock_price_prediction" target="_blank" rel="noopener noreferrer">
       <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a]">
         <img
           src={GitIcon}
@@ -131,7 +131,7 @@ const WebList = () => (
         <p className="text-sm">lstm_stock_prediction</p>
       </div>
     </a>
-    <a href="https://github.com/yxz29315/covid" target={"_blank"}>
+    <a href="https://github.com/yxz29315/covid" target="_blank" rel="noopener noreferrer">
       <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a]">
         <img
           src={GitIcon}
@@ -141,7 +141,7 @@ const WebList = () => (
         <p className="text-sm">covid_19_visualizer</p>
       </div>
     </a>
-    <a href="https://github.com/yxz29315/RubiksCubeSolverA" target={"_blank"}>
+    <a href="https://github.com/yxz29315/RubiksCubeSolverA" target="_blank" rel="noopener noreferrer">
       <div className="flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] focus:bg-slate-300 ml-12">
         <img
           src={GitIcon}
@@ -151,7 +151,7 @@ const WebList = () => (
         <p className="text-sm">RubiksCubeSolverA</p>
       </div>
     </a>
-    <a href="https://github.com/kevinjl321/frc-scouting" target={"_blank"}>
+    <a href="https://github.com/kevinjl321/frc-scouting" target="_blank" rel="noopener noreferrer">
       <div className="flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] ml-12">
         <img
           src={GitIcon}
@@ -161,7 +161,7 @@ const WebList = () => (
         <p className="text-sm">frc-scouting</p>
       </div>
     </a>
-    <a href="https://github.com/FRC-Team-1160/Shooter-v3" target={"_blank"}>
+    <a href="https://github.com/FRC-Team-1160/Shooter-v3" target="_blank" rel="noopener noreferrer">
       <div className="flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] ml-12">
         <img
           src={GitIcon}
