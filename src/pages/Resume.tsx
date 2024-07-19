@@ -84,7 +84,7 @@ const Resume = () => {
             Caltech{" "}
             </code>
             <br />
-            <code className="text-xs text-brown_vs">• Dec 2020 - May 2021</code>
+            <code className="text-xs text-brown_vs">• May 2022 - Sept 2022</code>
             <br />
             <code className="text-sm">
               <br />• Applied deep reinforcement learning algorithms to combinatorial puzzle solution spaces and produced a research paper under supervision of Prof. Babak Hassibi
