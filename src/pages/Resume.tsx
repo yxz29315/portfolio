@@ -73,7 +73,7 @@ const Resume = () => {
             <code className="text-sm">
               <br />• Mentored and recruited 40+ members for FRC team 1160
               <br />• Spearheaded design and manufacturing of the competition robot
-              <br />• Piloted development of Java control systems, autonomous and teleoperated PID control loops, and target detection
+              <br />• Piloted development of Java control systems, PID control loops, and target detection
               <br />• Achieved Rockwell Automation’s Creativity Award and finished 8th out of 43 teams in Offensive Power Rating at 2022 FIRST Sacramento Regional, team’s best performance in nearly 20 seasons
             </code>
           </div>
