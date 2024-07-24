@@ -68,7 +68,7 @@ const Resume = () => {
             Titanium Robotics{" "}
             </code>
             <br />
-            <code className="text-xs text-brown_vs">• Sept 2022 - Present</code>
+            <code className="text-xs text-brown_vs">• Sep 2018 - June 2022</code>
             <br />
             <code className="text-sm">
               <br />• Mentored and recruited 40+ members for FRC team 1160
