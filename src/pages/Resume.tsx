@@ -62,6 +62,25 @@ const Resume = () => {
             <code className="text-yellow_vs"></code>
           </div>
           <div className="w-3/4">
+            <code className="text-blue_vs">Software Developer - AI Trainer</code>
+            <br />
+            <code className="italic text-sm text-lightblue_vs">
+            Outlier AI{" "}
+            </code>
+            <br />
+            <code className="text-xs text-brown_vs">• Feb 2024 - Present</code>
+            <br />
+            <code className="text-sm">
+              <br />• I evaluated the quality of AI-generated code in C++/Java/Python/JavaScript/SQL
+              <br />• Debugged 400+ code responses & worked with multiple teams to fine-tune LLM models
+            </code>
+          </div>
+        </div>
+        <div className="flex flex-row pt-10 flex-wrap">
+          <div className="w-1/4">
+            <code className="text-yellow_vs"></code>
+          </div>
+          <div className="w-3/4">
             <code className="text-blue_vs">Engineering President</code>
             <br />
             <code className="italic text-sm text-lightblue_vs">
