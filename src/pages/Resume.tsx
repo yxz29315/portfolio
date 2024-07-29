@@ -72,7 +72,7 @@ const Resume = () => {
             <br />
             <code className="text-sm">
               <br />• I evaluated the quality of AI-generated code in C++/Java/Python/JavaScript/SQL
-              <br />• Debugged 400+ code responses & worked with multiple teams to fine-tune LLM models
+              <br />• Debugged 400+ code responses
             </code>
           </div>
         </div>
