@@ -111,8 +111,8 @@ const Resume = () => {
             <code className="text-xs text-brown_vs">• May 2022 - Sept 2022</code>
             <br />
             <code className="text-sm">
-              <br />• Applied deep reinforcement learning algorithms to combinatorial puzzle solution spaces and produced a research paper under supervision of Prof. Babak Hassibi
-              <br />• Trained and tested models implementing Monte Carlo tree search, deep approximate value iteration, and weighted A* search; final program had baseline accuracy of 83.78% with 2x2 Rubik’s cubes
+              <br />• Under mentorship of Prof. Babak Hassibi, applied deep reinforcement learning algorithms to engineer a model that could solve a 2x2 Rubik's cube in the least moves possible
+              <br />• Trained models implementing Monte Carlo tree search, deep approximate value iteration, and weighted A* search; final program had baseline accuracy of 83.78%
               <br />• Utilized: Python, tensorflow, numpy, Jupyter Notebook
             </code>
           </div>
