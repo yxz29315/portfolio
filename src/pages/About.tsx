@@ -2,6 +2,7 @@ import React from "react";
 import { IdentificationIcon } from "@heroicons/react/solid";
 import List from "../components/List";
 
+const CppLogo = require("../assets/logos/CppLogo.png");
 const PythonLogo = require("../assets/logos/PythonLogo.png");
 const ReactLogo = require("../assets/logos/ReactLogo.png");
 const TypescriptLogo = require("../assets/logos/TypescriptLogo.png");
@@ -13,9 +14,10 @@ const NodeJSLogo = require("../assets/logos/NodeJSLogo.png");
 const JavaLogo = require("../assets/logos/JavaLogo.png");
 
 const skills = [
-  { name: "JavaScript", logo: JsLogo },
+  { name: "C++", logo: CppLogo },
   { name: "Java", logo: JavaLogo },
   { name: "Python", logo: PythonLogo },
+  { name: "JavaScript", logo: JsLogo },
   { name: "React", logo: ReactLogo },
   { name: "Next.js", logo: NextLogo },
   { name: "TypeScript", logo: TypescriptLogo },
