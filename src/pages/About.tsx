@@ -17,7 +17,7 @@ const skills = [
   { name: "C++", logo: CppLogo },
   { name: "Java", logo: JavaLogo },
   { name: "Python", logo: PythonLogo },
-  { name: "JavaScript", logo: JsLogo },
+  { name: "HTML/CSS/JS", logo: JsLogo },
   { name: "React", logo: ReactLogo },
   { name: "Next.js", logo: NextLogo },
   { name: "TypeScript", logo: TypescriptLogo },
