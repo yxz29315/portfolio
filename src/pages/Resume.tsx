@@ -62,7 +62,7 @@ const Resume = () => {
             <code className="text-yellow_vs"></code>
           </div>
           <div className="w-3/4">
-            <code className="text-blue_vs">Software Developer - AI Trainer</code>
+            <code className="text-blue_vs">AI Trainer</code>
             <br />
             <code className="italic text-sm text-lightblue_vs">
             Outlier AI{" "}
