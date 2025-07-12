@@ -10,7 +10,7 @@ function Header() {
       <button
         className="border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2"
       >
-        <code>Developer, researcher, and student committed to making a difference through technology. Welcome to my portfolio!</code>
+        <code>Computer Engineering, 2026 at UC Santa Barbara</code>
       </button>
     </div>
   );

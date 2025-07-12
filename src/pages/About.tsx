@@ -42,9 +42,9 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-            I'm currently a 3rd year Computer Engineering student at UC Santa Barbara. The field of CS is my focus, and I'm
-            proficient in full-stack development and AI tools. I excel in problem-solving, with a range of engineering skills.
-            In my free time, I love watching history documentaries and playing the piano.
+            I am a very ambitious engineering student with a unique background that has prepared me to be a
+            team player who communicates effectively, faces problems analytically and has the technical skills
+            to tackle any challenge. I'm proficient in software development with a solid foundation in both hardware and software.
           </code>
           <br />
           <br />
