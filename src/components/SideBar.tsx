@@ -119,6 +119,16 @@ export default SideBar;
 
 const WebList = () => (
   <div className="flex flex-col">
+    <a href="https://github.com/yxz29315/recipe" target="_blank" rel="noopener noreferrer">
+      <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a]">
+        <img
+          src={GitIcon}
+          alt="Git Icon"
+          className="w-7 mr-1  ml-5 text-yellow_vs"
+        />
+        <p className="text-sm">Nomie.ai</p>
+      </div>
+    </a>
     <a href="https://github.com/yxz29315/lstm_stock_price_prediction" target="_blank" rel="noopener noreferrer">
       <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a]">
         <img

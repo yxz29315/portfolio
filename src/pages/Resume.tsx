@@ -140,6 +140,22 @@ const Resume = () => {
             <code className="text-yellow_vs">Projects</code>
           </div>
           <div className="w-3/4">
+            <code className="text-blue_vs">Nomie.ai – Mobile App</code>
+            <br />
+            <code className="text-sm">
+              <br />• Developed a cross-platform app that identifies ingredients from photos or manual input and suggests personalized recipes
+              <br />• Integrated Groq Cloud API (LLaMA 4 Maverick) and Supabase for authentication and nutritional preference storage
+              <br />• Designed an interactive step-by-step cooking mode with built-in timers and voice/visual prompts, enhancing usability
+              <br />• Utilized: React Native, Expo, PostgreSQL
+            </code>
+          </div>
+        </div>
+
+        <div className="flex flex-row pt-10 flex-wrap">
+          <div className="w-1/4">
+            <code className="text-yellow_vs"></code>
+          </div>
+          <div className="w-3/4">
             <code className="text-blue_vs">UCSB Courses Search</code>
             <br />
             <code className="text-sm">

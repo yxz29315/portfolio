@@ -19,6 +19,7 @@ const skills = [
   { name: "Python", logo: PythonLogo },
   { name: "HTML/CSS/JS", logo: JsLogo },
   { name: "React", logo: ReactLogo },
+  { name: "React Native", logo: ReactLogo },
   { name: "Next.js", logo: NextLogo },
   { name: "TypeScript", logo: TypescriptLogo },
   { name: "Tailwind CSS", logo: TailwindLogo },
@@ -44,7 +45,7 @@ const About = () => {
           <code>
             I am a very ambitious engineering student with a unique background that has prepared me to be a
             team player who communicates effectively, faces problems analytically and has the technical skills
-            to tackle any challenge. I'm proficient in software development with a solid foundation in both hardware and software.
+            to tackle any challenge. I'm proficient in software development with a solid foundation in both software and hardware.
           </code>
           <br />
           <br />
